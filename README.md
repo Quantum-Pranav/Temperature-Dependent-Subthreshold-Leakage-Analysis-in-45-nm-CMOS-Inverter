@@ -24,13 +24,13 @@ The inverter output was left floating to isolate static leakage effects.
 ## Results
 
 ### Leakage Current vs Temperature
-![Leakage Current vs Temperature](results/leakage_current_vs_temperature.png)
+![Leakage Current vs Temperature](results/leakage_current_vs_temperature.jpg)
 
 - OFF-state leakage increased from ~15 pA at 25 °C to ~38 pA at 100 °C.
 - The monotonic increase reflects temperature-dependent subthreshold conduction.
 
 ### Static Power vs Temperature
-![Static Power vs Temperature](results/static_power_vs_temperature.png)
+![Static Power vs Temperature](results/static_power_vs_temperature.jpg)
 
 - Static power increased from ~15 pW to ~38 pW with temperature.
 - The trend confirms exponential leakage behavior under standby conditions.
